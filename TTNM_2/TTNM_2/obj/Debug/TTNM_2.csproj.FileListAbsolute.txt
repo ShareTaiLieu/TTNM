@@ -1,0 +1,10 @@
+f:\documents\visual studio 2012\Projects\TTNM_2\TTNM_2\bin\Debug\TTNM_2.exe.config
+F:\Documents\Visual Studio 2012\Projects\TTNM_2\TTNM_2\bin\Debug\TTNM_2.exe
+F:\Documents\Visual Studio 2012\Projects\TTNM_2\TTNM_2\bin\Debug\TTNM_2.pdb
+F:\Documents\Visual Studio 2012\Projects\TTNM_2\TTNM_2\obj\Debug\TTNM_2.csprojResolveAssemblyReference.cache
+F:\Documents\Visual Studio 2012\Projects\TTNM_2\TTNM_2\obj\Debug\TTNM_2.Form1.resources
+F:\Documents\Visual Studio 2012\Projects\TTNM_2\TTNM_2\obj\Debug\TTNM_2.Properties.Resources.resources
+F:\Documents\Visual Studio 2012\Projects\TTNM_2\TTNM_2\obj\Debug\TTNM_2.csproj.GenerateResource.Cache
+F:\Documents\Visual Studio 2012\Projects\TTNM_2\TTNM_2\obj\Debug\TTNM_2.exe
+F:\Documents\Visual Studio 2012\Projects\TTNM_2\TTNM_2\obj\Debug\TTNM_2.pdb
+F:\Documents\Visual Studio 2012\Projects\TTNM_2\TTNM_2\obj\Debug\TTNM_2.Find.resources
