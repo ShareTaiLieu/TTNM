@@ -8,3 +8,14 @@ F:\Documents\Visual Studio 2012\Projects\TTNM_2\TTNM_2\obj\Debug\TTNM_2.csproj.G
 F:\Documents\Visual Studio 2012\Projects\TTNM_2\TTNM_2\obj\Debug\TTNM_2.exe
 F:\Documents\Visual Studio 2012\Projects\TTNM_2\TTNM_2\obj\Debug\TTNM_2.pdb
 F:\Documents\Visual Studio 2012\Projects\TTNM_2\TTNM_2\obj\Debug\TTNM_2.Find.resources
+D:\ShareTaiLieu_Dat\TTNM\TTNM_2\TTNM_2\bin\Debug\TTNM_2.exe.config
+D:\ShareTaiLieu_Dat\TTNM\TTNM_2\TTNM_2\obj\Debug\TTNM_2.exe
+D:\ShareTaiLieu_Dat\TTNM\TTNM_2\TTNM_2\obj\Debug\TTNM_2.pdb
+D:\ShareTaiLieu_Dat\TTNM\TTNM_2\TTNM_2\bin\Debug\TTNM_2.exe
+D:\ShareTaiLieu_Dat\TTNM\TTNM_2\TTNM_2\bin\Debug\TTNM_2.pdb
+D:\ShareTaiLieu_Dat\TTNM\TTNM_2\TTNM_2\obj\Debug\TTNM_2.csprojResolveAssemblyReference.cache
+D:\ShareTaiLieu_Dat\TTNM\TTNM_2\TTNM_2\obj\Debug\TTNM_2.Find.resources
+D:\ShareTaiLieu_Dat\TTNM\TTNM_2\TTNM_2\obj\Debug\TTNM_2.Form1.resources
+D:\ShareTaiLieu_Dat\TTNM\TTNM_2\TTNM_2\obj\Debug\TTNM_2.Properties.Resources.resources
+D:\ShareTaiLieu_Dat\TTNM\TTNM_2\TTNM_2\obj\Debug\TTNM_2.Replace.resources
+D:\ShareTaiLieu_Dat\TTNM\TTNM_2\TTNM_2\obj\Debug\TTNM_2.csproj.GenerateResource.Cache
