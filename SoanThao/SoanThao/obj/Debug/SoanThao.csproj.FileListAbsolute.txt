@@ -1,0 +1,9 @@
+c:\users\luanjr11\documents\visual studio 2012\Projects\SoanThao\SoanThao\bin\Debug\SoanThao.exe.config
+c:\users\luanjr11\documents\visual studio 2012\Projects\SoanThao\SoanThao\bin\Debug\SoanThao.exe
+c:\users\luanjr11\documents\visual studio 2012\Projects\SoanThao\SoanThao\bin\Debug\SoanThao.pdb
+c:\users\luanjr11\documents\visual studio 2012\Projects\SoanThao\SoanThao\obj\Debug\SoanThao.csprojResolveAssemblyReference.cache
+c:\users\luanjr11\documents\visual studio 2012\Projects\SoanThao\SoanThao\obj\Debug\SoanThao.Form1.resources
+c:\users\luanjr11\documents\visual studio 2012\Projects\SoanThao\SoanThao\obj\Debug\SoanThao.Properties.Resources.resources
+c:\users\luanjr11\documents\visual studio 2012\Projects\SoanThao\SoanThao\obj\Debug\SoanThao.csproj.GenerateResource.Cache
+c:\users\luanjr11\documents\visual studio 2012\Projects\SoanThao\SoanThao\obj\Debug\SoanThao.exe
+c:\users\luanjr11\documents\visual studio 2012\Projects\SoanThao\SoanThao\obj\Debug\SoanThao.pdb
