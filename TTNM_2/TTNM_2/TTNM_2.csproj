@@ -97,6 +97,29 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Icon\Align Center-26.png" />
+    <Content Include="Icon\Align Justify-26.png" />
+    <Content Include="Icon\Align Left-26.png" />
+    <Content Include="Icon\Align Right-26.png" />
+    <Content Include="Icon\Binoculars-26.png" />
+    <Content Include="Icon\Bold-24.png" />
+    <Content Include="Icon\Copy-26.png" />
+    <Content Include="Icon\Create New-26.png" />
+    <Content Include="Icon\Cut-24.png" />
+    <Content Include="Icon\Delete-26.png" />
+    <Content Include="Icon\Italic-26.png" />
+    <Content Include="Icon\Open Folder-24.png" />
+    <Content Include="Icon\Paste-25.png" />
+    <Content Include="Icon\Print-24.png" />
+    <Content Include="Icon\Redo-26.png" />
+    <Content Include="Icon\Replace-24.png" />
+    <Content Include="Icon\Save as-24.png" />
+    <Content Include="Icon\Save-24.png" />
+    <Content Include="Icon\Software Box-24.png" />
+    <Content Include="Icon\Underline-24.png" />
+    <Content Include="Icon\Undo-26.png" />
+    <Content Include="Icon\Zoom In-26.png" />
+    <Content Include="Icon\Zoom Out-26.png" />
     <Content Include="Images\+.png" />
     <Content Include="Images\-.png" />
     <Content Include="Images\A.png" />
@@ -127,6 +150,18 @@
     <Content Include="Images\Save.png" />
     <Content Include="Images\Underline.png" />
     <Content Include="Images\Underline1.png" />
+    <None Include="Resources\Align Justify-26.png" />
+    <None Include="Resources\Align Right-26.png" />
+    <None Include="Resources\Align Center-26.png" />
+    <None Include="Resources\Align Left-26.png" />
+    <None Include="Resources\Copy-26.png" />
+    <None Include="Resources\Cut-24.png" />
+    <None Include="Resources\Zoom In-26.png" />
+    <None Include="Resources\Zoom Out-26.png" />
+    <None Include="Resources\Binoculars-26.png" />
+    <None Include="Resources\Underline-24.png" />
+    <None Include="Resources\Italic-26.png" />
+    <None Include="Resources\Bold-24.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
