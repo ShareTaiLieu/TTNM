@@ -150,6 +150,8 @@
     <Content Include="Images\Save.png" />
     <Content Include="Images\Underline.png" />
     <Content Include="Images\Underline1.png" />
+    <None Include="Resources\Copy-261.png" />
+    <None Include="Resources\Create New-26.png" />
     <None Include="Resources\Align Justify-26.png" />
     <None Include="Resources\Align Right-26.png" />
     <None Include="Resources\Align Center-26.png" />
